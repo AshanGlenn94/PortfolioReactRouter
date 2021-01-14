@@ -1,0 +1,2 @@
+# PortfolioReactRouter
+This is a simple portfolio which I've created using React Router(first react router hands-on). I have used my own API to render data which I've created locally using JSON-Server package. In order to start the app you would have to install the node-modules along with the dependencies via "npm install" and make sure to start the server first using "cd JSON_SERVER" and "npm run json:server". Finally you can run the project using "npm start".
